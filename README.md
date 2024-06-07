@@ -1,4 +1,4 @@
-# Brain_Tumor_Detection_Using_SVM
+# Brain Tumor Detection Using SVM
 
 This code provides the Matlab implementation that detects the brain tumor region and also classify the tumor as benign and malignant.
 
